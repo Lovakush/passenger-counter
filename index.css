@@ -1,0 +1,33 @@
+
+body {
+    background-image: url("pass.jpg");
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+     margin-top: 10px;
+     margin-bottom: 10px;
+}
+h2{
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+#increment-btn {
+    background: pink;
+}
+#save-btn {
+    background: darkgreen;
+}
